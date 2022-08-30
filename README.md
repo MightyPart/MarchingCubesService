@@ -2,10 +2,9 @@
 
 I created a module that can easily create caves in seconds. At the moment its basically just a tech demo that I may or may not improve on or add to at a later date.
 
-Images and videos of what can be generated:
-![image|690x430](upload://bHZbYdn1Rm4w2TE7SDLzhgKxUU0.jpeg)
-![image|522x499](upload://kVypruZ2PfE6QWUolYq1Epvlr3z.jpeg)
-https://streamable.com/xg2g8b
+Images of what can be generated:
+[![image|690x430](upload://bHZbYdn1Rm4w2TE7SDLzhgKxUU0.jpeg)](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/5/2/1/5210d2607a7224fade23e5ab3b9d97e28f819d08.jpeg)
+[![image|522x499](upload://kVypruZ2PfE6QWUolYq1Epvlr3z.jpeg)](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/5/2/1/5210d2607a7224fade23e5ab3b9d97e28f819d08.jpeg)
 
 - - -
 
