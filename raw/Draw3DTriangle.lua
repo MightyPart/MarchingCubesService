@@ -1,7 +1,7 @@
 -- hierarchy
 --[[ MarchingCubesService.lua
      |_ Draw3DTriangle.lua
-        |_ Triangle
+        |_ Triangle.rbxm
      |_ TriangulationTable.lua
 ]]
 
